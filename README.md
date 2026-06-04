@@ -54,8 +54,6 @@ Install Java:
 <summary>Video: Deploy and run application artifact on Droplet</summary>
 <br />
 
-Clone https://github.com/nanuchi/java-react-example.git
-
 Build the application:
 - `cd java-react-example`
 - `./gradlew build`
