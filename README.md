@@ -17,7 +17,7 @@ After completing this module I can:
 <summary>Video: Setup Server on DigitalOcean</summary>
 <br />
 
-Create an account on [DigitalOcean](https://cloud.digitalocean.com/registrations/new). You will have to register a payment method and pay USD 5 for verification purposes.
+Create an account on [DigitalOcean](https://cloud.digitalocean.com/registrations/new).
 
 On DigitalOcean servers (virtual machines) are called `Droplets`.
 
